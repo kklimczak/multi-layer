@@ -1,0 +1,26 @@
+{
+  "name": "multi-layer",
+  "version": "0.0.1-dev",
+  "description": "The map engine based on Babylon.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kklimczak/multi-layer.git"
+  },
+  "keywords": [
+    "multi",
+    "layer",
+    "engine",
+    "maps",
+    "javascript"
+  ],
+  "author": "Konrad Klimczak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kklimczak/multi-layer/issues"
+  },
+  "homepage": "https://github.com/kklimczak/multi-layer#readme"
+}
